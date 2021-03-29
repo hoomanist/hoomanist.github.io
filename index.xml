@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hooman&#39;s Blog</title>
+    <link>http://hoomanist.github.io/</link>
+    <description>Recent content on Hooman&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 04:22:15 +0430</lastBuildDate>
+    <atom:link href="http://hoomanist.github.io/" rel="self" type="application/rss+xml" />
+
+    
+      <item>
+        <title>Posts</title>
+        <link>http://hoomanist.github.io/posts/</link>
+        <pubDate>Mon, 29 Mar 2021 04:22:15 +0430</pubDate>
+        
+        <guid>http://hoomanist.github.io/posts/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hooman&#39;s Blog</title>
+    <link>http://hoomanist.github.io/posts/</link>
+    <description>Recent content in Posts on Hooman&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 04:22:15 +0430</lastBuildDate><atom:link href="http://hoomanist.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Media Streaming in Go - RESTful way</title>
+      <link>http://hoomanist.github.io/posts/media-streaming-in-go/</link>
+      <pubDate>Mon, 29 Mar 2021 04:22:15 +0430</pubDate>
+      
+      <guid>http://hoomanist.github.io/posts/media-streaming-in-go/</guid>
+      <description>Hi. i want to explain how to implement a go service which streams some media(in this case a audio file). streaming is transmiting or receiving a continuous flow of data, in case of media it means you get chunks of data from that media in a continuous way. So in order to transmit the data in chunks we must divide our data in understandable standalone parts. for our case which is audio, mp3 standard asigns 44100 bytes of data as a standalone chunk, it means every 44100 bytes of a audio file is a complete audio file and can play on itself.</description>
+    </item>
+    
+  </channel>
+</rss>
